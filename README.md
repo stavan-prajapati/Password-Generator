@@ -20,8 +20,8 @@ This is a simple yet effective password generator built using Python. It allows 
   - 4-6 Lowercase Letters
   - 3-4 Digits
   - 2-3 Special Characters
-  - 
-##Contributions and Suggestions
+
+## Contributions and Suggestions
 Your ideas and improvements are welcome! If you'd like to improve the code or suggest new features, feel free to share your suggestions or submit a pull request.
 
 
